@@ -1,0 +1,6 @@
+[
+  { "directory": "D:/codigos/c/libpd/casket_sonido",
+    "arguments": ["gcc", "-Iinclude", "-Llib", "-c", "-o", "bin/main.o", "src/main.c"],
+    "file": "src/main.c" },
+
+]
